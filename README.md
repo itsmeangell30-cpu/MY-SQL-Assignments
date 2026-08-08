@@ -762,6 +762,7 @@ Locations
 ➤ Each employee belongs to a department.
 ➤ Each employee belongs to a location.
 .......
+⁂ Screenshots
 
 ![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/1aa86209b65b243d455bd3d48d9045e24c63bc2c/DDL%20-Employees%20Output%20table.png)
 
@@ -780,6 +781,9 @@ Locations
 ![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/6a955aa6583b6c6866a198f5b91b7d3ba3af82cf/Truncate-Employee%20table-Output.png)
 
 ![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/5958a0acba9b3bcac6e8db4bbf9208a2484bbe3d/Employees%20table%20removed.png)
+
+![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/801abcfd4b047952a2d8bb5f3a647462a53360d1/DROP-Database%20EMP.png)
+
 37. Conclusion
 
 This project demonstrates the use of MySQL DDL commands and constraints.
