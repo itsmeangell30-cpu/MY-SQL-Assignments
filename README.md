@@ -763,7 +763,7 @@ Locations
 ➤ Each employee belongs to a location.
 .......
 
-(Alt text) (https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/589104a494ab10636340eeff6b61bc2810302501/DDL%20-Employees%20Output%20table.png)
+![Image Alt](
 
 ![image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/9bf2a64435acb14fa69549523307ce2176d5b774/DDL-Departmets-Output%20table.png)
 
