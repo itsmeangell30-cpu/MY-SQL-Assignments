@@ -767,6 +767,8 @@ Locations
 
 ![image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/9bf2a64435acb14fa69549523307ce2176d5b774/DDL-Departmets-Output%20table.png)
 
+![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/d4db01550093dd9b41fe23125f0597e7435933d6/DDL-Locations-Output%20table.png)
+
 37. Conclusion
 
 This project demonstrates the use of MySQL DDL commands and constraints.
