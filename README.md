@@ -769,6 +769,8 @@ Locations
 
 ![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/d4db01550093dd9b41fe23125f0597e7435933d6/DDL-Locations-Output%20table.png)
 
+![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/c8c09d1cc4e5ac51d51dbed3fbf7847d62fdcceb/Constraint%20location%20table%20output.png)
+
 37. Conclusion
 
 This project demonstrates the use of MySQL DDL commands and constraints.
