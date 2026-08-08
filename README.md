@@ -778,6 +778,8 @@ Locations
 ![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/b0bdb7d52090e671f3c7f9c011d2b49cb7c4e55a/Table%20creation%20using%20constraints.png)
 
 ![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/6a955aa6583b6c6866a198f5b91b7d3ba3af82cf/Truncate-Employee%20table-Output.png)
+
+![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/5958a0acba9b3bcac6e8db4bbf9208a2484bbe3d/Employees%20table%20removed.png)
 37. Conclusion
 
 This project demonstrates the use of MySQL DDL commands and constraints.
