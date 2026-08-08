@@ -773,6 +773,8 @@ Locations
 
 ![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/23a1acc9b00a92f74523958618f89e5908e44acb/Constraint-Department%20table%20Output.png)
 
+![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/e612721d37d7afb275f31348570169a55b6c94c5/Constraint-Employee%20table%20output.png)
+
 37. Conclusion
 
 This project demonstrates the use of MySQL DDL commands and constraints.
