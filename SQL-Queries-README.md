@@ -194,7 +194,7 @@ WHERE Salary > 50000;
 
 This retrieves employees whose salary is greater than 50,000.
 
-![Where clause Output](./Where clause_Output.png)
+![Where clause Output](./Where_clause_Output.png)
 
 ⚙️ 5. Comparison Operators
 
