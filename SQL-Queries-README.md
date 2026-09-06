@@ -288,7 +288,7 @@ FROM Employees
 ORDER BY Salary DESC;
 
 This displays employees from the highest salary to the lowest salary.
-1[Order by Salary DESC](./Order_by_Salary_DESC.png)
+![Order by Salary DESC](./Order_by_Salary_DESC.png)
 
 🔢 10. LIMIT and OFFSET
 
