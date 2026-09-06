@@ -154,7 +154,7 @@ SELECT *
 FROM Departments;
 SELECT *
 FROM Location;
-![Image Alt] (https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/7bbac4e06870eadfa8e2c0eac6e1213f3b8971d8/Displaying%20output%20after%20inserting%20values.png)
+
 2. DISTINCT
 
 DISTINCT is used to retrieve only unique values.
