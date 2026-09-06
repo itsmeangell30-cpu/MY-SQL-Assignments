@@ -354,7 +354,7 @@ GROUP BY L.Location_name;
 
 This query identifies the highest salary at each location.
 
-![Locationwise_MAX_Salary](./Locationwise_MAX_Salary.png)
+![MAX_Salary](./MAX_Salary.png)
 
 📈 15. AVG()
 Average Salary for Analyst Designations
