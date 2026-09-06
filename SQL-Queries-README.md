@@ -280,7 +280,7 @@ This sorts:
 
 Department IDs in ascending order
 Salaries in descending order within each department
-![Orderby Departmentid ASC](./Orderby_Departmentid_ASC.png)
+![Order by Department id ASC](./Order_by_Department_id_ASC.png)
 
 Sort Employees by Salary
 SELECT *
