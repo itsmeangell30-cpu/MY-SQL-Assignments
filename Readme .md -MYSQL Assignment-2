@@ -155,7 +155,7 @@ FROM Departments;
 SELECT *
 FROM Location;
 
-![Image Alt](https://github.com/itsmeangell30-cpu/MY-SQL-Assignments/blob/main/Displaying%20output%20after%20inserting%20values.png?raw=true)
+
 
 2. DISTINCT
 
