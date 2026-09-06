@@ -167,7 +167,7 @@ FROM Employees;
 
 This eliminates duplicate salary values from the result.
 
-![Distinct-Output](./Distinct-Output.png)
+![Distinct-Output](./Distinct%20-Output.png)
 
 3. Column Alias Using AS
 
