@@ -182,7 +182,7 @@ FROM Employees;
 
 Aliases make query results easier to understand.
 ![Alias As Output](./Alias_As_Output.png)
-![Alias Output](./Alias-Output.png)
+![Alias Output](./Alias_Output.png)
 🔍 4. WHERE Clause
 
 The WHERE clause filters records according to specified conditions.
