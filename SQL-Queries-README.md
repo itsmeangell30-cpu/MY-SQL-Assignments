@@ -306,7 +306,7 @@ FROM Employees
 LIMIT 5 OFFSET 18;
 
 This skips the first 18 records and returns the next 5 records.
-![Using Limit Offset](./Using_Limit_Offset.png)
+![Using Limit Offset](./Using_Limit_ Offset.png)
 
 🧮 11. Aggregate Functions
 
