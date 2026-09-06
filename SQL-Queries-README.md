@@ -341,6 +341,7 @@ SELECT MIN(Age)
 FROM Employees;
 
 This identifies the youngest employee age in the dataset.
+![MIN Function](./MIN_Function.png)
 
 💵 14. MAX()
 Maximum Salary by Location
@@ -352,6 +353,8 @@ ON E.Location_id = L.Location_id
 GROUP BY L.Location_name;
 
 This query identifies the highest salary at each location.
+
+![Locationwise_MAX_Salary](./Locationwise_MAX_Salary.png)
 
 📈 15. AVG()
 Average Salary for Analyst Designations
