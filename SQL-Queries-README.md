@@ -181,7 +181,7 @@ SELECT Salary AS Employee_salary
 FROM Employees;
 
 Aliases make query results easier to understand.
-![Alias -AS- Output](./Alias%20 -AS- Output.png)
+![Alias -As- Output](./Alias%20-As-%20Output.png)
 ![Alias-Output](./Alias%20-Output.png)
 🔍 4. WHERE Clause
 
