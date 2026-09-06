@@ -250,6 +250,8 @@ WHERE Designation IS NULL;
 
 In the original dataset, employee 5004 had a missing designation.
 
+![NULL Output](./NULL_Output.png)
+
 ✏️ 8. UPDATE Statement
 
 The UPDATE statement is used to modify existing records.
