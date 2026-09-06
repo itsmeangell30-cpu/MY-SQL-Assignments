@@ -334,6 +334,7 @@ Joins Employees with Departments
 Filters the Finance department
 Calculates the total salary
 Groups the result by department name
+![SUM Function](./SUM_Function.png)
 📉 13. MIN()
 Minimum Employee Age
 SELECT MIN(Age)
