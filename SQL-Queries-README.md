@@ -167,6 +167,8 @@ FROM Employees;
 
 This eliminates duplicate salary values from the result.
 
+![Distinct_output](./Distinct%20_%20Output.png)
+
 3. Column Alias Using AS
 
 The AS keyword provides a temporary alternate name for a column.
