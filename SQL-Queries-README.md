@@ -194,6 +194,8 @@ WHERE Salary > 50000;
 
 This retrieves employees whose salary is greater than 50,000.
 
+![Where clause Output](./Where_clause_Output.png)
+
 ⚙️ 5. Comparison Operators
 
 SQL comparison operators are used to compare values.
