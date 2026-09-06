@@ -155,7 +155,7 @@ FROM Departments;
 SELECT *
 FROM Location;
 
-![Inner Join](./Inner%20Join.png)
+![Displaying output After Inserting values](./Displaying%20 output_after_inserting_values.png)
 
 2. DISTINCT
 
