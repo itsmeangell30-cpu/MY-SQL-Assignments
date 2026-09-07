@@ -155,7 +155,7 @@ FROM Departments;
 SELECT *
 FROM Location;
 
-![Displaying output after inserting values](./Displaying%20output%20after%20inserting%20values.png)
+![SELECT Output](./SELECT_Output.png)
 
 2. DISTINCT
 
