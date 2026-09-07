@@ -420,6 +420,8 @@ WHERE	HAVING
 Filters individual rows	Filters groups
 Applied before grouping	Applied after grouping
 Commonly used for normal conditions	Commonly used with aggregate functions
+
+![Having Output](./Having_Output.png)
 👩 19. Female Employees with Average Age Below 30 by Location
 SELECT L.Location_Name,
        AVG(E.Age) AS Average_Age
