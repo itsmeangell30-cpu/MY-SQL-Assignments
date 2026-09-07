@@ -438,7 +438,7 @@ Selects female employees
 Groups them by location
 Calculates their average age
 Displays only locations where the average age is below 30
-![HAVING Outputt](./HAVING_Outputt)
+![HAVING Function](./HAVING_Function.png)
 🔗 PART 3 – JOINS
 
 SQL JOIN operations are used to combine data from multiple related tables.
