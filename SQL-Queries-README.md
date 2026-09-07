@@ -461,6 +461,7 @@ INNER JOIN Departments D
 ON E.Department_id = D.Department_id;
 
 This combines employee information with the corresponding department information.
+![Inner Join](./Inner_Join.png)
 
 🟢 21. LEFT JOIN
 
@@ -482,6 +483,9 @@ COUNT(E.Employee_id)
 
 instead of COUNT(*) ensures departments without employees are counted as 0.
 
+![Left Join](./Left_Join.png)
+
+
 🟠 22. RIGHT JOIN
 
 RIGHT JOIN returns all records from the right table and matching records from the left table.
@@ -497,6 +501,8 @@ ORDER BY L.Location_Name;
 This displays all locations and the employees assigned to them.
 
 If a location has no employees, the employee name will appear as NULL.
+
+![Right Join](./Right_Join.png)
 
 🧩 SQL Concepts Practiced
 CREATE DATABASE
