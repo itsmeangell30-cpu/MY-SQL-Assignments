@@ -373,6 +373,7 @@ Finance Analyst
 Business Analyst
 Supply Chain Analyst
 Quality Assurance Analyst
+![Avg Salary](./Avg_Salary.png)
 🔢 16. COUNT() and GROUP BY
 Departments with Fewer Than 3 Employees
 SELECT D.Department_Name,
